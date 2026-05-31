@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sweet-melody/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Sweet Melody](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-melody/) |
+| **Get License** | [Get a Licensing Quote for Sweet Melody](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-melody/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2b0d0188743b2964cefc129121c70cf3bba5f5794c06518ee57aaa780d62b134` |
 | **Timestamp** | May 31, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
