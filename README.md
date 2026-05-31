@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sweet-melody/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Sweet Melody](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-melody/) |
+| **Get License** | [Request Licensing for Sweet Melody](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-melody/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can taste the midnight on your skin
+> A quiet fire slowly pulling me in
+> Every shadow moves exactly right
+> When you look at me beneath the amber light
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
